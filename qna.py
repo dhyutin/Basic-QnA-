@@ -1,4 +1,3 @@
-from cmath import inf
 import nltk
 import sys
 import os
